@@ -1,2 +1,2 @@
 # autoware.ai
-autoware/autoware:latest-melodic
+autoware/autoware:latest-melodic-base
