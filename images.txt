@@ -1,2 +1,1 @@
-# autoware.ai
-autoware/autoware:latest-melodic
+nvidia/opengl:1.0-glvnd-runtime-ubuntu18.04
