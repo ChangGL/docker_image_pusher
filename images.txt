@@ -5,4 +5,4 @@
 #--platform=linux/arm64 postgres:16-alpine
 # acr-mirror-manager rerun: 2026-08-14 06:42:41Z
 
---platform==linux/arm64 gpustack/gpustack:latest
+--platform=linux/arm64 gpustack/gpustack:latest
