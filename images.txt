@@ -1,6 +1,8 @@
---platform=linux/arm64 node:24-alpine
+#--platform=linux/arm64 node:24-alpine
 #--platform=linux/arm64 nginx:1.29-alpine
 #--platform=linux/arm64 alpine:3.22
 #--platform=linux/arm64 golang:1.26-alpine
 #--platform=linux/arm64 postgres:16-alpine
 # acr-mirror-manager rerun: 2026-08-14 06:42:41Z
+
+--platform==linux/arm64 gpustack/gpustack:latest
