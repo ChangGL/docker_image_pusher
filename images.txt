@@ -7,4 +7,6 @@
 
 #--platform=linux/arm64 gpustack/gpustack:latest
 
-gpustack/gpustack
+#gpustack/gpustack
+
+requarks/wiki
