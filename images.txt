@@ -9,4 +9,6 @@
 
 #gpustack/gpustack
 
-requarks/wiki
+#requarks/wiki
+
+fishros2/ros:noetic-desktop-full
