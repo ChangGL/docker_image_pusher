@@ -13,4 +13,6 @@
 
 #fishros2/ros:noetic-desktop-full
 
---platform=linux/arm64 fishros2/ros:noetic-desktop-full
+#--platform=linux/arm64 fishros2/ros:noetic-desktop-full
+
+--platform=linux/arm64 ros:noetic
