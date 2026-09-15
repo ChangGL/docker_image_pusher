@@ -17,4 +17,6 @@
 
 #--platform=linux/arm64 ros:noetic
 
-osrf/ros:jazzy-desktop-full
+#osrf/ros:jazzy-desktop-full
+
+ros:jazzy-ros-base
