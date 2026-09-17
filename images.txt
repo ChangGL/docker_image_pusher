@@ -19,4 +19,6 @@
 
 #osrf/ros:jazzy-desktop-full
 
-ros:jazzy-ros-base
+#ros:jazzy-ros-base
+
+--platform=linux/arm64 mysql:9.7
