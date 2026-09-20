@@ -21,4 +21,6 @@
 
 #ros:jazzy-ros-base
 
---platform=linux/arm64 mysql:9.7
+#--platform=linux/arm64 mysql:9.7
+
+--platform=linux/arm64 nexterm/aio:latest
