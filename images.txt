@@ -23,4 +23,6 @@
 
 #--platform=linux/arm64 mysql:9.7
 
---platform=linux/arm64 nexterm/aio:latest
+#--platform=linux/arm64 nexterm/aio:latest
+
+postgres:16-alpine
